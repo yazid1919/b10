@@ -57,8 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\n Untuk mendapatkan file/video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi
-SUPPORT BRAND TELEGRAM => https://t.me/COLLECTOR_OFFICIAL</b>",
+    "<b>Hello {first}\n\nUntuk mendapatkan file/video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi. SUPPORT BRAND TELEGRAM => https://t.me/COLLECTOR_OFFICIAL</b>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
