@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<br>Hello {first}\n\nuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi. INFO : https://t.me/COLLECTOR_OFFICIAL</br>","<br>capek klik link trus? sampai terkena limit? mending join vvip terlengkap kami</br>,"<br>testi = http://t.me/nihtestinyanih</br>","<br>ingin join hubungi admin = @dad_sex</br>",
+    "<b>Hello {first}\n\nuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi. INFO : https://t.me/COLLECTOR_OFFICIAL</b>","<b>capek klik link trus? sampai terkena limit? mending join vvip terlengkap kami</b>,"<b>testi = http://t.me/nihtestinyanih</b>","<b>ingin join hubungi admin = @dad_sex</b>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
