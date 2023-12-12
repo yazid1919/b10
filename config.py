@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\nuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi. join VVIP aja yang berisi video langsung tanpa link lagi dan berasa seperti main sama pramugari. testi dan list 👉 https://t.me/MEN_AREA/39\nsilahkan hubungi 👉 @angel26\n\nUNTUK INFO LEBIH LANJUT KLIK TULISAN BIRU DIBAWAH INI👇👇\n\n<a href='https://s.id/Pusatnya_video_viral_terlengkap'>NONTON DI SITUS WEB</a>\n\n<a href='https://s.id/Bokep_gratis'>VVIP GRATIS</a>\n\n<a href='https://t.me/RACUNS_SHOPEE_DISKON'> TENTANG SAYA</a>\n\nCreator by <a href='https://t.me/COLLECTOR_OFFICIAL'>@CREATOR</a>",)
+    "<b>Hello {first}\n\nuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi. join VVIP aja yang berisi video langsung tanpa link lagi. testi dan list 👉 https://t.me/MEN_AREA/39\nsilahkan hubungi 👉 @angel26\n\nClick link dibawah ini👇👇\n\n=> https://s.id/koleksi-video-vcs\n\nNONTON DI SITUS WEB Click link dibawah ini 👇👇\n=> https://bokepbaratviral.blogspot.com\n\n<a href='https://t.me/RACUNS_SHOPEE_DISKON'> TENTANG SAYA</a>\n\nCreator by <a href='https://t.me/COLLECTOR_OFFICIAL'>@CREATOR</a>",)
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
