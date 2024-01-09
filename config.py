@@ -59,7 +59,7 @@ except ValueError:
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
     "<b>Hello {first}\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇
-\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n👇KOLEKSI VIDEO MEN AREA TERLENGKAP👇\n\nCapek mau nonton harus klik banyak link/bot?? Nonton disitus yang telah kami sediakan atau JOIN VVIP terlengkap kami\n\nNonton ribuan video langsung tanpa link lagi JOIN VVIP=> https://t.me/MEN_AREA/39 \nAtau bisa langsung hubungi=> @angel26\n\nKALIAN BISA NONTON GRATIS DISITUS YANG KAMI SEDIAKAN👇\n https://bit.ly/Nonton-video-viral-indo \n\nClick in here👇👇\n=>https://s.id/kumpulan-video-di-gubuk\n\nDeveloped by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>",)
+\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n👇KOLEKSI VIDEO MEN AREA TERLENGKAP👇\n\nCapek mau nonton harus klik banyak link/bot?? Nonton disitus yang telah kami sediakan atau JOIN VVIP terlengkap kami\n\nNonton ribuan video langsung tanpa link lagi JOIN VVIP=> https://t.me/MEN_AREA/39 \nAtau bisa langsung hubungi=> @angel26\n\nKALIAN BISA NONTON GRATIS DISITUS YANG KAMI SEDIAKAN👇\n https://bit.ly/Nonton-video-viral-indo \n\nDownload video ocil👇👇\n=>https://s.id/donwload-video-bocil\n\nDeveloped by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>",)
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
